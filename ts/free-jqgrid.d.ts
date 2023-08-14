@@ -577,6 +577,7 @@ declare namespace FreeJqGrid {
 			bootstrap: GuiStyleInfo;
 			bootstrapPrimary: GuiStyleInfo;
 			bootstrap4: GuiStyleInfo;
+			bootstrap5: GuiStyleInfo;
 			[propName: string]: GuiStyleInfo;
 		};
 		icons: {
